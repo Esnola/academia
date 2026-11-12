@@ -56,7 +56,7 @@ export const reasons = [
 
 export const academyCards = [
   [directions, 'direcciones', 'Escola de Idiomas', <>Impartimos clases de Inglés. Estamos especializados na preparación para probas de Cambridge, da Escola Oficial de Idiomas, TOEFL… entre outras.<br />Tamén castelán, galego, francés e latín.</>],
-  [team, 'equipo', 'Non falta unha asignatura', 'Ciencias, Bioloxía, Filosofía, Historia, Matemáticas, Física, Química. Sempre adaptada as necesidades ou temarios requeridas pola escola ou instituto do alumno.'],
+  [team, 'equipo', 'Todas as asignaturas', 'Ciencias, Bioloxía, Filosofía, Historia, Matemáticas, Física, Química. Sempre adaptada as necesidades ou temarios requeridas pola escola ou instituto do alumno.'],
   [calculator, 'calculadora', 'Multi-Edade', 'Non importa a edade. Damos clases a nenos de primaria, ciclos medios e superiores, ESO. O mesmo podemos preparar a xente adulta a conseguir o título da ESO nun só exame. Impartimos clases de Inglés a titulados náuticos ou xente que o require por o seu traballo.'],
 ]
 

@@ -203,7 +203,7 @@ export default function Hero({
   const [videoOpen, setVideoOpen] = useState(false);
 
   return (
-    <section className="relative isolate flex min-h-svh w-full flex-col overflow-hidden bg-white">
+    <section className="hero-section relative isolate flex min-h-svh w-full flex-col overflow-hidden bg-white">
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 -z-10"
@@ -246,7 +246,7 @@ export default function Hero({
         initial="hidden"
         animate="show"
         variants={stagger}
-        className="relative mx-auto flex w-full max-w-7xl flex-1 flex-col items-center justify-center gap-4 px-4 sm:gap-0 pt-24 pb-10 sm:px-6 sm:pt-28 sm:pb-12 lg:px-8 lg:pt-30"
+        className="relative mx-auto flex w-full max-w-7xl flex-1 flex-col items-center justify-center gap-4 px-4 pt-24 pb-24 sm:gap-0 sm:px-6 sm:pt-28 sm:pb-28 lg:px-8 lg:pt-30 lg:pb-30"
       >
         <motion.h1
           variants={fadeUp}
